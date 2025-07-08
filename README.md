@@ -81,7 +81,9 @@ Created a sharable GitHub and LinkedIn-ready project
 
 Narasimha Jaladurgam
 [GitHub Repository](https://github.com/Narasimha-66/Employee-Attrition-ML) 
-[LinkedIn Profile](https://www.linkedin.com/in/narasimha-jaladurgam-90266624b) 
+
+[LinkedIn Profile](https://www.linkedin.com/in/narasimha-jaladurgam-90266624b)  
+
 Capstone Project - Infosys Springboard.
 
 
