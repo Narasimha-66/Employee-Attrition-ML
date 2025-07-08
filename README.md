@@ -79,8 +79,9 @@ Created a sharable GitHub and LinkedIn-ready project
 
 # Author
 
-Narasimha Jaladurgam
-[GitHub Repository](https://github.com/Narasimha-66/Employee-Attrition-ML) 
+Narasimha Jaladurgam  
+
+[GitHub Repository](https://github.com/Narasimha-66) 
 
 [LinkedIn Profile](https://www.linkedin.com/in/narasimha-jaladurgam-90266624b)  
 
